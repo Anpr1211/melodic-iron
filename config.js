@@ -22,7 +22,7 @@ module.exports = {
       style: 'brands',
       icon: 'fa-linkedin',
       name: 'LinkedIn',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://linkedin',
     },
     {
       style: 'solid',
